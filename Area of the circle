@@ -1,0 +1,17 @@
+# 1st step is to ask the value of radius from the user.
+
+r = float(input("Enter the value of the radius = "))
+
+
+
+#now let's calculate the area by multiplying radius by pie(3.14) powered by 2
+
+
+
+area = 3.14 * r ** 2
+
+
+
+# now let's print the output using print function.
+
+print("The area of the circle with radius" , r "is ", area)
